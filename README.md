@@ -7,3 +7,8 @@ Hello:
 
 Hello2:
 
+Strings:
+como declarar, atribuir , usar "methods", irb console.
+
+Input :
+Strings e recebimento de dados de usuários
