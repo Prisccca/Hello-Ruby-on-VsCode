@@ -12,3 +12,6 @@ como declarar, atribuir , usar "methods", irb console.
 
 Input :
 Strings e recebimento de dados de usuários
+
+Números , operadores de comparação, Metodos, Branching (If,else,elsif)
+Pequeno projeto de calculadora.
