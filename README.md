@@ -1,6 +1,6 @@
 # Evolução de aprendizagem de Ruby Language
 
-última atualização: 08/05/22
+última atualização: 09/06/22
 
 Conteúdos
 
@@ -19,3 +19,5 @@ Números , operadores de comparação, Metodos, Branching (If,else,elsif)
 Pequeno projeto de calculadora.
 
 Arrays e Iterators 
+
+Hashes e Primeiro Projeto (Authenticator)
