@@ -1,6 +1,6 @@
 # Evolução de aprendizagem de Ruby Language
 
-última atualização: 09/06/22
+última sessão de estudos: 03/09/22
 
 Conteúdos
 
@@ -18,6 +18,10 @@ Strings e recebimento de dados de usuários
 Números , operadores de comparação, Metodos, Branching (If,else,elsif)
 Pequeno projeto de calculadora.
 
-Arrays e Iterators 
+Arrays e Iterators
 
 Hashes e Primeiro Projeto (Authenticator)
+
+Segundo projeto: Area Code Dictionary e variação bookstore
+
+Orientação a objetos
